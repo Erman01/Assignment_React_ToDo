@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Assignment_React_ToDo/static/css/main.9684bff6.chunk.css",
+    "main.js": "/Assignment_React_ToDo/static/js/main.10b79404.chunk.js",
+    "main.js.map": "/Assignment_React_ToDo/static/js/main.10b79404.chunk.js.map",
+    "runtime-main.js": "/Assignment_React_ToDo/static/js/runtime-main.7be21f15.js",
+    "runtime-main.js.map": "/Assignment_React_ToDo/static/js/runtime-main.7be21f15.js.map",
+    "static/js/2.88bb81ea.chunk.js": "/Assignment_React_ToDo/static/js/2.88bb81ea.chunk.js",
+    "static/js/2.88bb81ea.chunk.js.map": "/Assignment_React_ToDo/static/js/2.88bb81ea.chunk.js.map",
+    "static/js/3.595d918b.chunk.js": "/Assignment_React_ToDo/static/js/3.595d918b.chunk.js",
+    "static/js/3.595d918b.chunk.js.map": "/Assignment_React_ToDo/static/js/3.595d918b.chunk.js.map",
+    "index.html": "/Assignment_React_ToDo/index.html",
+    "static/css/main.9684bff6.chunk.css.map": "/Assignment_React_ToDo/static/css/main.9684bff6.chunk.css.map",
+    "static/js/2.88bb81ea.chunk.js.LICENSE.txt": "/Assignment_React_ToDo/static/js/2.88bb81ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7be21f15.js",
+    "static/js/2.88bb81ea.chunk.js",
+    "static/css/main.9684bff6.chunk.css",
+    "static/js/main.10b79404.chunk.js"
+  ]
+}
